@@ -193,7 +193,7 @@
                 {The Hong Kong Polytechnic University}}
                 {University name}}
 \UNIVERSITY  {\texorpdfstring{
-                {\scshape \Large The Hong Kong Polytechnic University}}
+                {\Large The Hong Kong Polytechnic University}}
                 {UNIVERSITY NAME (IN BLOCK CAPITALS)}}
 \department  {\texorpdfstring{
                 {Department of Computing}}
@@ -236,10 +236,10 @@
     \null\vfil
     \vskip 60\p@
     \begin{center}
-        \begin{figure}
-            \centering
-            \includegraphics[scale=0.45]{Figures/Logo_polyu}
-        \end{figure}
+        % \begin{figure}
+        %     \centering
+        %     \includegraphics[scale=0.45]{Figures/Logo_polyu}
+        % \end{figure}
       \setlength{\parskip}{0pt}
       {\Huge \UNIVNAME \par}
       \par
